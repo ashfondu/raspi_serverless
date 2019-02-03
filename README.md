@@ -8,5 +8,8 @@ The Azure Serverless folder contains Python Code that runs on the Azure Blob con
 Instructions on how to setup Python Functions for Azure
 https://gist.github.com/ashfondu/ac5395dcb45829d39cb1bb7362131614
 
-Tutorial on how to install OpenCV (cv2)
+Tutorial on how to install OpenCV (cv2)<br>
 https://www.deciphertechnic.com/install-opencv-python-on-raspberry-pi/
+
+The majority of Raspi code credit goes to @erogol and via his excellent article <br>
+https://hackernoon.com/raspberrypi-home-surveillance-with-only-150-lines-of-python-code-2701bd0373c9
