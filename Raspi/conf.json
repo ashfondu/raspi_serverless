@@ -1,0 +1,16 @@
+{
+	"show_video": false,
+	"use_dropbox": false,
+	"azure_account": "<Your Azure Blob Account Here>",
+	"azure_key": "<Your Azure Key Here>",
+	"container_name" : "<Your Azure Blob Container name here>",
+	"min_upload_seconds": 0.5,
+	"min_motion_frames": 5,
+	"camera_warmup_time": 10,
+	"delta_thresh": 2,
+	"blur_size": [21, 21], 
+	"resolution": [1280, 720],
+	"fps": 16,
+	"min_area": 5000,
+	"rotation": 90
+}
